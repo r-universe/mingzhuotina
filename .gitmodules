@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lipidmapsR"]
+	path = lipidmapsR
+	url = https://github.com/cran/lipidmapsR
+	shallow = true
+	registered = true
